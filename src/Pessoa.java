@@ -4,7 +4,8 @@ public class Pessoa {
     private String nome;
     private int idade;
     private String sexo;
-
+    private String endereço;
+    private String estadocivil;
     public void fazerAniver() {
         this.idade++;
 
